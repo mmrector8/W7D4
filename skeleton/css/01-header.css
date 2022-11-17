@@ -53,3 +53,13 @@ a:hover {
     color: red;
     
 }
+
+.badge {
+    background: cn1-round-border;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    color: red;
+    background: white;
+    text-align: center;
+}
